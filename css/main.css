@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #070F2B;
+}
+
+.pacifico-regular {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .righteous-regular {
+    font-family: "Righteous", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .All-project .sitehead h1{
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+    margin: 20px;
+  }
+ .All-project .sitehead h2{
+    font-family: "Righteous", sans-serif;
+    font-size: 25px;
+    line-height: 30px;
+    font-weight: 500;
+}    
+.All-project .myrow{
+font-family: "PT Sans Caption", sans-serif;
+    font-size: 16px;
+   
+}
